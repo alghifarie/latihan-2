@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 /**
  *
- * @author Zhar
+ * @author user
  */
 public class PenghitungUmur extends javax.swing.JFrame {
     private  final PenghitungUmurHelper helper;
